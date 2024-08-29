@@ -69,7 +69,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Principal Investigators
 ---
 
 Dr Lin Su is a Leverhulme Early Career Fellow at the University of Cambridge and has been a member of the Reisner Lab in the Department of Chemistry since 2021. He obtained his PhD in biomedical engineering from Southeast University in 2021, where he focused on engineering electron transfer at the interfaces of microorganisms and materials. During his studies, he also visited Prof. Caroline Ajo-Franklin’s group to study synthetic biology in 2016-2020.
