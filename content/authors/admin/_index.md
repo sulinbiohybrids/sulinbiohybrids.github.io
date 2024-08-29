@@ -45,7 +45,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:linsu.hub@gmail.com'
-  - icon: twitter(x)
+  - icon: twitter
     icon_pack: fab
     link: https://x.com/su2lin_SEU
   - icon: google-scholar
