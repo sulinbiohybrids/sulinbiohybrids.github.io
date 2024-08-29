@@ -9,13 +9,13 @@ sections:
     content:
       title: |
         Biohybrids
-        Research Group
+        Group
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Biohybrids Research Group** has been a center of **** research, teaching, and practice since its founding in 2025.
+        The **Biohybrids Group** has been a center of **** research, teaching, and practice since its founding in 2025.
   
   - block: collection
     content:
