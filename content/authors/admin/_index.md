@@ -10,12 +10,12 @@ last_name: Su
 superuser: true
 
 # Role/position
-role: (soon) Lecturer in Engineering Biology
+#role: (soon) Lecturer in Engineering Biology
 
 # Organizations/Affiliations
 organizations:
-  - name: Queen Mary University of London
-    url: 'https://www.qmul.ac.uk/'
+#  - name: Queen Mary University of London
+#    url: 'https://www.qmul.ac.uk/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include studying and engineering Bio-hybrid systems.
