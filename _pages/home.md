@@ -1,12 +1,12 @@
 ---
-title: "Allan Lab - Home"
+title: "Biohybrids Research Group - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "Biohybrids Group at Queen Mary, University of London."
 sitemap: false
 permalink: /
 ---
 
-**News: Our group will move to the University of Munich (LMU)!** During the next two years, we will build up a "Lehrstuhl" (chair) at LMU and we will slowly move our instruments to Munich. We will be looking for PhD students, sub-group leaders, postdocs, engineering/technical stuff, and an administrative assistant. Please contact me if you are interested.
+**News: Our group will open at the Queen Mary, University of London in 2025!** During the next ... We will be looking for PhD students, sub-group leaders, postdocs, engineering/technical stuff, and an administrative assistant. Please contact me if you are interested.
 More details to follow.
 
 
